@@ -1,5 +1,5 @@
 # GIT
-Version 3 ->>>>>
+Version 3 //////
 
 
 Try to create conflicts
